@@ -5,3 +5,6 @@
 
 ## Day 2:
 ### Today, I have learnt about the basics of Haar Like features and theory behind face recognition.
+
+## Day 25:
+### Learnt about p-value, null hypothesis and alternate hypothesis. Also have learnt about Simple Linear Regression and multi valued Linear Regression.
